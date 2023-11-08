@@ -8,5 +8,7 @@ Everyday one question Solved from Geeks for Geeks in the month of November
 6. Letters Collection
 7. Sum of upper and lower triangles
 8. Print Matrix in snake Pattern
+9. Predict the Column
+
 
 

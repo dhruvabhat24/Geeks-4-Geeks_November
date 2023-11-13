@@ -12,3 +12,4 @@ Everyday one question Solved from Geeks for Geeks in the month of November
 10. Number following a pattern
 11. Isomorphic Strings
 12. Check if string is rotated by two places
+13. Shortest Common Supersequence

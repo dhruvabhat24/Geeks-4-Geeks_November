@@ -14,3 +14,5 @@ Everyday one question Solved from Geeks for Geeks in the month of November
 12. Check if string is rotated by two places
 13. Shortest Common Supersequence
 14. Check if strings are rotations of each other or not
+15. Better String
+16. 

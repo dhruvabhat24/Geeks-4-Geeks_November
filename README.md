@@ -22,3 +22,4 @@ Everyday one question Solved from Geeks for Geeks in the month of November
 20. K Sum Paths
 21. Determine if Two Trees are Identical
 22. Symmetric Tree
+23. AVL Tree Insertion

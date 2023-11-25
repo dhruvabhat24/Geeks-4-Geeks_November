@@ -24,4 +24,6 @@ Everyday one question Solved from Geeks for Geeks in the month of November
 22. Symmetric Tree
 23. AVL Tree Insertion
 24. Pascal Triangle
+25. Shuffle integers
+
 

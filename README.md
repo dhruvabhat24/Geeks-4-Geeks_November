@@ -25,5 +25,7 @@ Everyday one question Solved from Geeks for Geeks in the month of November
 23. AVL Tree Insertion
 24. Pascal Triangle
 25. Shuffle integers
+26. Print Pattern
+
 
 

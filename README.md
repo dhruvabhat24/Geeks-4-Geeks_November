@@ -28,3 +28,4 @@ Everyday one question Solved from Geeks for Geeks in the month of November
 26. Print Pattern
 27. Detect Cycle using DSU
 28. Sum of dependencies in a graph
+29. Euler circuit and Path
